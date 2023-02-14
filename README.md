@@ -1,3 +1,7 @@
+```diff
+- RESELLER PANEL HAS BEEN DEPRECATED AND NO LONGER AN ACTIVE SERVICE
+```
+
 # WHMCS-Reseller-Panel
 The official WHMCS Reseller Panel module.
 
